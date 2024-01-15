@@ -1,0 +1,6 @@
+﻿Liskov Substitution Principle
+
+	//Use Case - Emmployee (Permanent, Contratual)
+	//Service Required
+		--CalculateSalary
+		--CalculateBonus

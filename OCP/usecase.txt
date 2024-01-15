@@ -1,0 +1,6 @@
+﻿Open Closed Principle
+
+	//Use Case - Shapes (Circle, Rectangle)
+	//Service Required
+		--CalculateArea
+			--Calculate summed area of given heterogeneous collection of shapes

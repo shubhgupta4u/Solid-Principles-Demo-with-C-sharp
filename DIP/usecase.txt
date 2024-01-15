@@ -1,0 +1,5 @@
+﻿Dependency Inversion Principle
+
+	//Use Case - Logger (Console)
+	//Service Required
+		--Log Message with different Log Level (Debug, Info, Error, Warn etc.)

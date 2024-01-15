@@ -1,0 +1,7 @@
+﻿Single Responsibility Principle
+
+	//Use Case - Invoice 
+	//Service Required
+		--CalculateTax
+		--CalculateTotalAmount
+		--PrintInvoice
